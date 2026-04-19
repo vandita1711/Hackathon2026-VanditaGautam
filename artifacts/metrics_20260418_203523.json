@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-04-18T20:35:23.572716",
+  "summary": {
+    "total_tickets": 1,
+    "resolution_rate": 1.0,
+    "escalation_rate": 0.0,
+    "failure_rate": 0.0,
+    "avg_processing_time": 0.0,
+    "p95_processing_time": null,
+    "tickets_per_second": 0,
+    "avg_confidence": 0.85,
+    "intent_distribution": {},
+    "urgency_distribution": {},
+    "top_tools": [],
+    "top_errors": [],
+    "total_runtime": 0.0
+  },
+  "raw_metrics": {
+    "tickets_processed": 1,
+    "tickets_resolved": 1,
+    "tickets_escalated": 0,
+    "tickets_failed": 0,
+    "processing_times": [
+      0.0
+    ],
+    "intent_distribution": {},
+    "urgency_distribution": {},
+    "confidence_scores": [
+      0.85
+    ],
+    "tool_call_counts": {},
+    "error_counts": {},
+    "start_time": 1776524723.572716,
+    "ticket_TEST-001_start": 1776524723.572716
+  }
+}

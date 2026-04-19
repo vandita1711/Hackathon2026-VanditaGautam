@@ -1,0 +1,28 @@
+# ShopWave Customer Support Policies
+
+## Return and Refund Policy
+- Standard return window is 30 days from delivery.
+- Electronics accessories have an extended 60-day return window.
+- High-value electronics have a restricted 15-day return window.
+- Refunds are only issued after a successful eligibility check.
+- Refund processing time is 5–7 business days once approved.
+- Wrong item delivered: If in stock, we offer pickup + replacement. If out of stock, a full refund is issued.
+- Damaged/defective on arrival: Requires photo evidence. We offer refund or replacement.
+
+## Cancellation Policy
+- Orders in 'processing' status can be cancelled for a full refund.
+- Orders in 'shipped' or 'delivered' status cannot be cancelled.
+
+## Exchange Policy
+- Exchanges are allowed for wrong size, wrong color, or wrong item delivered.
+
+## Warranty and Escalation
+- All warranty claims must be escalated to the specialized Warranty Team.
+- Refunds above $200 require supervisor approval and must be escalated.
+- Replacement requests for damaged items must be escalated.
+- Cases with suspected fraud or conflicting records must be escalated.
+- If agent confidence is below 0.6, the case must be escalated.
+
+## Customer Tiers
+- VIP Customers: May receive leniency for borderline return window cases, but must be verified in system notes.
+- Premium Customers: Borderline judgments allowed with a supervisor note.

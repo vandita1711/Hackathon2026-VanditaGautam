@@ -1,0 +1,60 @@
+{
+  "timestamp": "2026-04-18T23:26:02.146182",
+  "summary": {
+    "total_tickets": 5,
+    "resolution_rate": 0.4,
+    "escalation_rate": 0.6,
+    "failure_rate": 0.0,
+    "avg_processing_time": 14.503567171096801,
+    "p95_processing_time": null,
+    "tickets_per_second": 0.023653656826818723,
+    "avg_confidence": 0.84,
+    "intent_distribution": {
+      "refund": 4,
+      "damage_or_defect": 1
+    },
+    "urgency_distribution": {
+      "high": 1,
+      "low": 4
+    },
+    "top_tools": [],
+    "top_errors": [],
+    "total_runtime": 211.38380575180054
+  },
+  "raw_metrics": {
+    "tickets_processed": 5,
+    "tickets_resolved": 2,
+    "tickets_escalated": 3,
+    "tickets_failed": 0,
+    "processing_times": [
+      13.287984609603882,
+      14.007844924926758,
+      14.543368101119995,
+      14.983532190322876,
+      15.695106029510498
+    ],
+    "intent_distribution": {
+      "refund": 4,
+      "damage_or_defect": 1
+    },
+    "urgency_distribution": {
+      "high": 1,
+      "low": 4
+    },
+    "confidence_scores": [
+      0.89,
+      0.84,
+      0.85,
+      0.84,
+      0.78
+    ],
+    "tool_call_counts": {},
+    "error_counts": {},
+    "start_time": 1776534750.7623763,
+    "ticket_TKT-004_start": 1776534943.2556276,
+    "ticket_TKT-001_start": 1776534944.0264952,
+    "ticket_TKT-002_start": 1776534944.8775947,
+    "ticket_TKT-003_start": 1776534945.7286332,
+    "ticket_TKT-005_start": 1776534946.4451206
+  }
+}
